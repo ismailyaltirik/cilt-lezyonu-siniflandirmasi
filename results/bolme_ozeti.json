@@ -1,0 +1,74 @@
+{
+  "HAM10000_once_sonra": {
+    "once_goruntu": 10015,
+    "once_sinif": 7,
+    "sonra_goruntu": 8659,
+    "sonra_sinif": 4
+  },
+  "PAD_once_sonra": {
+    "once_goruntu": 2298,
+    "once_sinif": 6,
+    "sonra_goruntu": 1871,
+    "sonra_sinif": 4
+  },
+  "bolme_tablolari": {
+    "HAM10000": {
+      "train": {
+        "AK": 233,
+        "BCC": 367,
+        "MEL": 795,
+        "NEV": 4790,
+        "Toplam": 6185
+      },
+      "val": {
+        "AK": 47,
+        "BCC": 73,
+        "MEL": 159,
+        "NEV": 958,
+        "Toplam": 1237
+      },
+      "test": {
+        "AK": 47,
+        "BCC": 74,
+        "MEL": 159,
+        "NEV": 957,
+        "Toplam": 1237
+      }
+    },
+    "PAD-UFES-20": {
+      "train": {
+        "AK": 522,
+        "BCC": 603,
+        "MEL": 37,
+        "NEV": 174,
+        "Toplam": 1336
+      },
+      "val": {
+        "AK": 104,
+        "BCC": 121,
+        "MEL": 7,
+        "NEV": 35,
+        "Toplam": 267
+      },
+      "test": {
+        "AK": 104,
+        "BCC": 121,
+        "MEL": 8,
+        "NEV": 35,
+        "Toplam": 268
+      }
+    }
+  },
+  "sizinti_kontrolu": {
+    "HAM10000 (lesion_id)": {
+      "train∩val": 0,
+      "train∩test": 0,
+      "val∩test": 0
+    },
+    "PAD-UFES-20 (patient_id)": {
+      "train∩val": 0,
+      "train∩test": 0,
+      "val∩test": 0
+    }
+  }
+}

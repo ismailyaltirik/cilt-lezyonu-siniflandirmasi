@@ -1,0 +1,30 @@
+{
+  "HAM10000": {
+    "egitim_sayilari": {
+      "AK": 233,
+      "BCC": 367,
+      "MEL": 795,
+      "NEV": 4790
+    },
+    "sinif_agirliklari": {
+      "AK": 6.636,
+      "BCC": 4.213,
+      "MEL": 1.945,
+      "NEV": 0.323
+    }
+  },
+  "PAD-UFES-20": {
+    "egitim_sayilari": {
+      "AK": 522,
+      "BCC": 603,
+      "MEL": 37,
+      "NEV": 174
+    },
+    "sinif_agirliklari": {
+      "AK": 0.64,
+      "BCC": 0.554,
+      "MEL": 9.027,
+      "NEV": 1.92
+    }
+  }
+}

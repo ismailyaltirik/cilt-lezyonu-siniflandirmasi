@@ -1,0 +1,71 @@
+{
+  "HAM10000": {
+    "goruntu": 10015,
+    "lezyon": 7470,
+    "sinif_sayisi": 7,
+    "sinif_dagilimi": {
+      "nv": 6705,
+      "mel": 1113,
+      "bkl": 1099,
+      "bcc": 514,
+      "akiec": 327,
+      "vasc": 142,
+      "df": 115
+    },
+    "yas_eksik": 57,
+    "cinsiyet_unknown": 57,
+    "lokasyon_unknown": 234,
+    "tekrar_eden_image_id": 0,
+    "birden_fazla_goruntulu_lezyon": 1956,
+    "tani_yontemi": {
+      "histo": 5340,
+      "follow_up": 3704,
+      "consensus": 902,
+      "confocal": 69
+    }
+  },
+  "PAD-UFES-20": {
+    "goruntu": 2298,
+    "lezyon": 1641,
+    "hasta": 1373,
+    "sinif_sayisi": 6,
+    "sinif_dagilimi": {
+      "BCC": 845,
+      "ACK": 730,
+      "NEV": 244,
+      "SEK": 235,
+      "SCC": 192,
+      "MEL": 52
+    },
+    "tekrar_eden_img_id": 0,
+    "biyopsi_orani": 0.584,
+    "eksik_deger_orani": {
+      "patient_id": 0.0,
+      "lesion_id": 0.0,
+      "smoke": 0.35,
+      "drink": 0.35,
+      "background_father": 0.356,
+      "background_mother": 0.358,
+      "age": 0.0,
+      "pesticide": 0.35,
+      "gender": 0.35,
+      "skin_cancer_history": 0.35,
+      "cancer_history": 0.35,
+      "has_piped_water": 0.35,
+      "has_sewage_system": 0.35,
+      "fitspatrick": 0.35,
+      "region": 0.0,
+      "diameter_1": 0.35,
+      "diameter_2": 0.35,
+      "diagnostic": 0.0,
+      "itch": 0.0,
+      "grew": 0.0,
+      "hurt": 0.0,
+      "changed": 0.0,
+      "bleed": 0.0,
+      "elevation": 0.0,
+      "img_id": 0.0,
+      "biopsed": 0.0
+    }
+  }
+}
